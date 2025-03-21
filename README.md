@@ -1,6 +1,7 @@
 # HR-Analytics-Dashboard
 
 ### HR Dashboard - User Story
+View the Dashboard without downloading the workbook : https://us-east-1.online.tableau.com/#/site/sumaiyyafareed-f7a98d14bc/views/HR_Dashboard_Summary/HRSummary?:iid=2
 
 This **HR Dashboard** project is designed to empower HR managers with comprehensive insights into human resources data, providing a dual-view experience for both high-level summaries and detailed employee analysis.
 
